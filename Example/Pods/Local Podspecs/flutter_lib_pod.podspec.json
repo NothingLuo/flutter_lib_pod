@@ -1,0 +1,22 @@
+{
+  "name": "flutter_lib_pod",
+  "version": "0.1.0",
+  "summary": "A short description of flutter_lib_pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nothing Lu/flutter_lib_pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nothing Lu": "nothing_lu@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Nothing Lu/flutter_lib_pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "flutter_lib_pod/Classes/**/*"
+}
